@@ -11,6 +11,11 @@ Copy the included 'anet' folder into the 'hardware' folder of your Arduino insta
 
 Then:
 
+#### All
+4. Open Arduino IDE
+5. Goto File -> Preferences
+6. Add https://raw.githubusercontent.com/juppin/anet-board/master/package_anet_board_index.json to Additional Board Manager URL´s
+
 #### Windows
 4. Open your `Documents` folder in Windows Explorer
 5. Open the `Arduino` folder, then the `hardware` sub-folder.  If neither of these folders exist, create them.
