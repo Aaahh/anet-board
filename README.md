@@ -14,7 +14,7 @@ Then:
 #### All
 4. Open Arduino IDE
 5. Goto File -> Preferences
-6. Add https://raw.githubusercontent.com/juppin/anet-board/master/package_anet_board_index.json to Additional Board Manager URL´s
+6. Add https://raw.githubusercontent.com/juppin/anet-board/board-manager/package_anet_board_index.json to Additional Board Manager URL´s
 
 #### Windows
 4. Open your `Documents` folder in Windows Explorer
