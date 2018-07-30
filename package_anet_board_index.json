@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "name": "Anet",
+      "maintainer": "Hans Raaf",
+      "websiteURL": "https://github.com/SkyNet3D/anet-board",
+      "email": "hans@raaf.net",
+      "help": {
+        "online": "https://github.com/SkyNet3D/anet-board"
+      },
+      "platforms": [
+        {
+          "name": "Anet 3D Printer Boards",
+          "architecture": "avr",
+          "version": "1.0",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/SkyNet3D/anet-board"
+          },
+          "url": "https://github.com/juppin/anet-board/archive/v1.0.1.zip",
+          "archiveFileName": "1.0.1.zip",
+          "checksum": "SHA-256:f1ca243d1aaf4257e1d359d8272da3c5f9421442f75321e1d986abf3ce833612",
+          "size": "45633",
+          "boards": [
+            {"name": "Anet V1.0"},
+            {"name": "Anet V1.0 (Optiboot)"}
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
